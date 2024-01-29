@@ -1,0 +1,26 @@
+1706512347132	geckodriver	INFO	Listening on 127.0.0.1:49554
+1706512350183	mozrunner::runner	INFO	Running command: "C:\\Users\\Thin GF63\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remote-debugg ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINGF~1\\AppData\\Local\\Temp\\rust_mozprofileMZpBKh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706512350530	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706512350592	Marionette	INFO	Listening on port 49565
+WebDriver BiDi listening on ws://127.0.0.1:49555
+Read port: 49565
+1706512350771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49555/devtools/browser/cf5e82a7-f38d-4de6-ba97-7f54ab1a013f
+1706512381244	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1706512382902	Marionette	INFO	Stopped listening on port 49565
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/mobile-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

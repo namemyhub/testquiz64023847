@@ -1,0 +1,25 @@
+1706513829021	geckodriver	INFO	Listening on 127.0.0.1:55951
+1706513832084	mozrunner::runner	INFO	Running command: "C:\\Users\\Thin GF63\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remote-debugg ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINGF~1\\AppData\\Local\\Temp\\rust_mozprofileXNKW7c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706513832432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706513832492	Marionette	INFO	Listening on port 55960
+WebDriver BiDi listening on ws://127.0.0.1:55952
+Read port: 55960
+1706513832668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55952/devtools/browser/1777d24a-17cb-4940-9a07-404f30a22cee
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706513840936	Marionette	INFO	Stopped listening on port 55960
+JavaScript warning: https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval, line 4669: Script terminated by timeout at:
+e.Z<@https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval:4669:36042
+R@https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval:4669:2550
+qk/<@https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval:4669:7392
+nl</<@https://pagead2.googlesyndication.com/bg/IHSjRKKj3q_1Pt3c2sGWHmUCy_Bw5n5yhKh9CWyZSw4.js line 2 > eval:4669:35303
+
+Dynamically enable window occlusion 1

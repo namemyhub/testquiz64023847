@@ -1,0 +1,48 @@
+1706514441758	geckodriver	INFO	Listening on 127.0.0.1:54988
+1706514444830	mozrunner::runner	INFO	Running command: "C:\\Users\\Thin GF63\\.cache\\selenium\\firefox\\win64\\122.0\\firefox.exe" "--marionette" "--remote-debugg ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\THINGF~1\\AppData\\Local\\Temp\\rust_mozprofileRz3N7a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1706514445176	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1706514445238	Marionette	INFO	Listening on port 54998
+WebDriver BiDi listening on ws://127.0.0.1:54989
+Read port: 54998
+1706514445420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54989/devtools/browser/a39e78d2-128e-4faa-aaad-10746c7cbd68
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914, line 76: Script terminated by timeout at:
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:202
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+Rh/c/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:152:320
+Va@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:47:339
+Sa.prototype.flush@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:47:127
+Ua@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:466
+Rh/c/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:152:292
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:78:425
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:77:439
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:223
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+Xg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:237
+Ra.prototype.Zb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:298
+Xg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:246
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:78:425
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:77:439
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:223
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+Xg/</</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:237
+Ra.prototype.Zb/<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:46:298
+Xg/</</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:138:246
+n.Id@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:78:425
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:77:439
+n.o@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:76:223
+n.next@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:75:859
+qd/</<@https://www.googletagservices.com/activeview/js/current/ufs_web_display.js?cache=r20110914:96:671
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automationexercise.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1706514454852	Marionette	INFO	Stopped listening on port 54998
+Dynamically enable window occlusion 1
